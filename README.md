@@ -1,2 +1,2 @@
 # ATC-coding
-Here is a script for ATC-coding of drugs through parsing Vidal.ru
+Here is a script for ATC-coding of drugs through parsing Vidal.ru web-service.
